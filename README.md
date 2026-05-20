@@ -1,4 +1,4 @@
-<img width="722" height="1600" alt="image" src="https://github.com/user-attachments/assets/1125d90a-7995-4a50-bae2-b6458e0f820b" /># UI-UX-Experiment3
+
 
 ## Aim:
 To perform a heuristic evaluation of existing mobile shopping applications, compare their UI/UX design principles, analyze usability issues, and redesign an improved interface using Figma.
